@@ -52,7 +52,7 @@ To succeed at this project, you'll need to demonstrate that you can do the follo
 <p>This route will respond with a list of all existing dish data.
 <p><h4><code>POST /dishes</code></h4></p>
 <p>This route will save the dish and respond with the newly created dish.</p>
-<p><h5>Validation></h5></p>
+<p><h5>Validation</h5></p>
 <p>If any of the following validations fail, respond with a status code of <code>400</code> and an error message.</p>
 <table>
  <tr>
