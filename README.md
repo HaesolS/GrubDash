@@ -102,10 +102,10 @@ To succeed at this project, you'll need to demonstrate that you can do the follo
 </table>
 <p><h4><code>GET /dishes/:dishId</code></h4></p>
 <p>This route will respond with the dish where <code>id === :dishId</code> or return <code>404</code> if no matching dish is found.
-<p><h4><code>PUT /dishes/:dishId</h4></p>
-<p>This route will update the dish where id === :dishId or return 404 if no matching dish is found.</p>
+<p><h4><code>PUT /dishes/:dishId</code></h4></p>
+<p>This route will update the dish where <code>id === :dishId</code> or return <code>404</code> if no matching dish is found.</p>
 <p><h5>Validation</h5></p>
-<p>The update validation must include all of the same validation as the <code></code>POST /dishes</p>code> route, plus the following:</p>
+<p>The update validation must include all of the same validation as the <code>POST /dishes</code> route, plus the following:</p>
 <table>
  <tr>
   <th>Validation</th>
