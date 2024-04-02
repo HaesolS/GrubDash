@@ -1,6 +1,8 @@
 <h1>Project: GrubDash</h1>
 <p>You've been hired as a backend developer for a new startup called <i>GrubDash</i>! As another developer works on the design and frontend experience, you have been tasked with setting up an API and building out specific routes so that the frontend developers can demo some initial design ideas for the big bosses.</p>
 
+<p><img src="https://github.com/HaesolS/GrubDash/assets/147211855/6d68bc21-c0fd-4baf-9ab6-42c00c1d2a15"></p>
+
 <p>This project will test your ability to build APIs with complex validation.
 To succeed at this project, you'll need to demonstrate that you can do the following:</p>
 <ul>
